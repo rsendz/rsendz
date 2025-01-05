@@ -1,6 +1,5 @@
 ## Hi, I'm Luis 👋
-Computer Science Student @ [Tec de Monterrey](https://tec.mx/en).<br/>
-Passionate about technology and deeply interested in Software Engineering, focusing on building effective solutions to real-world problems.
+I'm a Computer Science student @ [Tec de Monterrey](https://tec.mx/en), passionate about technology and deeply interested in Software Engineering. My focus lies in designing and building effective solutions to solve real-world problems.
 
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,r,swift,matlab)](https://skillicons.dev)
