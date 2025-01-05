@@ -7,4 +7,4 @@ I'm a Computer Science student @ [Tec de Monterrey](https://tec.mx/en), passiona
 ### Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs,express,flask,bootstrap,tailwind,dotnet,git,gcp,postman,unity,vercel,figma)](https://skillicons.dev)
 
-Currently importing my projects after deleting my old account.  
+Currently in the process of importing my projects after deleting my old account.  
