@@ -5,6 +5,5 @@ I'm a Computer Science student @ [Tec de Monterrey](https://tec.mx/en), passiona
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,r,swift,matlab)](https://skillicons.dev)
 
 ### Tools and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs,express,flask,bootstrap,tailwind,dotnet,git,gcp,postman,unity,vercel,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs,express,flask,react,tailwind,dotnet,git,gcp,postman,unity,vercel,figma)](https://skillicons.dev)
 
-Currently in the process of importing my projects after deleting my old account.  
