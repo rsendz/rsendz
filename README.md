@@ -4,7 +4,7 @@ Software engineer focused on **full-stack development** and **applied AI** tools
 
 - 🔭 Currently building and shipping [Setscry](https://github.com/rsendz/setscry), a fully offline macOS app for cleaning image folders and searching them by description with on-device CLIP running on MLX.
 - 🎓 Completed an exchange semester at the University of Toronto under the ELAP Scholarship.
-- 🌱 Interested in full-stack systems and applied AI/ML. Recent work spans Go, Redis/Kafka, Swift/SwiftUI, and PyTorch/scikit-learn.
+- 🌱 Interested in full-stack systems and applied AI/ML. Recent work spans Go, Redis/Kafka, Swift, and PyTorch/scikit-learn.
 - 🛠️ I build developer tools and native apps across product interfaces, backend services, data, and infrastructure.
 - ✨ I care about clear engineering, thoughtful user experiences, and learning by building.
 - 📫 Reach me on LinkedIn or by email.
